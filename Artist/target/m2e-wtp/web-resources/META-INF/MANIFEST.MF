@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Artist Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vabasava
+Implementation-Vendor-Id: com.caps.cg
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Artist
+Created-By: Maven Integration for Eclipse
+
